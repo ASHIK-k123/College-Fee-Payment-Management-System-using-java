@@ -10,4 +10,4 @@ Delete Student feepayment o/p link : https://github.com/ASHIK-k123/College-Fee-P
 
 View Student feepayment o/p link : https://github.com/ASHIK-k123/College-Fee-Payment-Management-System-using-java/blob/main/viewfee.png
 
-Repor Student feepayment o/p link : https://github.com/ASHIK-k123/College-Fee-Payment-Management-System-using-java/blob/main/Report1fee.png
+Report Student feepayment o/p link : https://github.com/ASHIK-k123/College-Fee-Payment-Management-System-using-java/blob/main/Report1fee.png
